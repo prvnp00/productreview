@@ -92,7 +92,7 @@ body {
     color: white;
     background-color: hsl(228, 12%, 48%);
     border-style: none;
-    border-radius: 5%;
+    border-radius: 5px;
     padding: 10px;
     width: 90%;
     margin: 5px;
